@@ -31,7 +31,6 @@ Pharmacovigilance teams spend enormous effort reviewing adverse event (AE) repor
 ---
 
 ## Repo Structure
-
 faers-llm-clinical-annotation/
 ├── README.md
 ├── requirements.txt
