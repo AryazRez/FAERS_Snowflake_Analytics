@@ -1,0 +1,100 @@
+primaryid,caseid,pt,drug_rec_act,AI_SUMMARY,AI_SEVERITY
+100100247,10010024,Malignant melanoma stage I,,Summary: The adverse event reported is stage I malignant melanoma. ,
+100100247,10010024,Keratoacanthoma,,"Summary: Keratoacanthoma, a rapidly growing skin tumor resembling squamous cell carcinoma, was reported in a patient receiving a specific medication.",
+100100247,10010024,Blood pressure increased,,Summary: The patient experienced an increase in blood pressure.  ,Classification: Mild
+100100247,10010024,Keratoacanthoma,,"Summary: Keratoacanthoma, a rapidly growing skin tumor resembling squamous cell carcinoma, was reported in a patient receiving a specific medication.",
+100100247,10010024,Hyperkeratosis,,"Summary: Hyperkeratosis, a thickening of the outer layer of the skin, was reported as an adverse event.",
+100100247,10010024,Therapy non-responder,,Summary: The patient did not respond to the therapy as expected.  ,Classification: Mild.
+100373859,10037385,Magnesium deficiency,,Summary: Patient experienced magnesium deficiency.,
+100373859,10037385,Skin atrophy,,Summary: Skin atrophy observed in the patient.,Classification: Mild.
+100373859,10037385,Hiatus hernia,,Summary: Hiatus hernia is a condition where part of the stomach protrudes into the chest cavity through the diaphragm. ,
+100373859,10037385,Vision blurred,,Summary: Blurred vision reported as an adverse event.  ,Classification: Mild
+100373859,10037385,Epigastric discomfort,,Summary: Patient experienced epigastric discomfort.,
+100373859,10037385,Muscle tightness,,Summary: Patient experienced muscle tightness.  ,Classification: Mild
+100373859,10037385,Macrocytosis,,"Summary: Macrocytosis is a condition characterized by enlarged red blood cells, often associated with vitamin B12 or folate deficiency. ",
+100373859,10037385,Dermatitis,,"Summary: The patient developed dermatitis, characterized by inflammation and irritation of the skin.",
+100373859,10037385,Insomnia,,Summary: The patient experienced difficulty falling or staying asleep.,
+100373859,10037385,Drug hypersensitivity,,Summary: The patient experienced a drug hypersensitivity reaction. ,
+100373859,10037385,Haemorrhage,,Summary: The occurrence of bleeding. ,
+100373859,10037385,Paraesthesia oral,,Summary: The patient experienced tingling or numbness in the oral cavity. ,
+100373859,10037385,Gait disturbance,,"Summary: The patient experienced a gait disturbance, affecting their ability to walk normally. ",
+100373859,10037385,Myalgia,,Summary: Patient experienced muscle pain (myalgia).,
+100373859,10037385,Pain in extremity,,Summary: Patient experienced pain in the extremity.,Classification: Mild
+100373859,10037385,Dyspepsia,,"Summary: The patient experienced dyspepsia, characterized by upper abdominal discomfort or pain. ",
+100373859,10037385,Skin discolouration,,Summary: Skin discolouration observed in the patient.,
+100373859,10037385,Dry mouth,,Summary: Patient experienced dry mouth as an adverse event.,
+100373859,10037385,Arthralgia,,Summary: The patient experienced joint pain (arthralgia).,
+100373859,10037385,Sensitive skin,,Summary: The patient experienced sensitive skin as an adverse event. ,
+100373859,10037385,Urinary tract infection,,Summary: The patient developed a urinary tract infection.,
+100373859,10037385,Musculoskeletal stiffness,,Summary: The patient experienced musculoskeletal stiffness as an adverse event.,
+100373859,10037385,Endometrial cancer,,Summary: Endometrial cancer was reported as an adverse event.  ,Classification: Severe
+100373859,10037385,Drug interaction,,Summary: The adverse event involves a drug interaction between two medications.  ,Classification: Moderate
+100373859,10037385,Alopecia,,"Summary: Alopecia, a side effect characterized by hair loss.",
+100373859,10037385,Abnormal faeces,,"Summary: Patient experienced abnormal faeces, characterized by changes in color, consistency, or frequency of bowel movements.",
+100373859,10037385,Lymphadenopathy,,"Summary: The patient developed lymphadenopathy, characterized by the enlargement of lymph nodes. ",
+100373859,10037385,Neuropathy peripheral,,Summary: The patient experienced peripheral neuropathy.,
+100373859,10037385,Pruritus,,Summary: The patient experienced itching (pruritus).,
+100373859,10037385,Arthritis,,Summary: The patient developed arthritis following treatment with the investigational drug.,
+100373859,10037385,Peripheral swelling,,Summary: The patient experienced peripheral swelling.,
+100373859,10037385,Fall,,Summary: Patient experienced a fall while walking in the hospital corridor.  ,Classification: Moderate
+100373859,10037385,Muscle swelling,,Summary: Muscle swelling was reported as an adverse event.,
+100373859,10037385,Emotional disorder,,Summary: The adverse event reported is an emotional disorder.  ,Classification: Mild
+100373859,10037385,Balance disorder,,Summary: The patient experienced a balance disorder.  ,Classification: Mild
+100373859,10037385,Psychiatric symptom,,Summary: The patient experienced a new onset of anxiety and insomnia following initiation of the study drug.,
+100373859,10037385,Muscle strain,,Summary: Patient experienced a muscle strain.  ,Classification: Mild
+100373859,10037385,Skin exfoliation,,Summary: Skin exfoliation observed in a patient. ,
+100373859,10037385,Abdominal pain,,Summary: Patient experienced abdominal pain.,
+100373859,10037385,Reflux gastritis,,Summary: Reflux gastritis is inflammation of the stomach lining caused by stomach acid flowing back into the esophagus. ,
+100373859,10037385,Vomiting,,Summary: The patient experienced vomiting following administration of the medication. ,
+100373859,10037385,Blister,,Summary: The adverse event reported was a blister formation on the skin. ,
+100373859,10037385,Abdominal mass,,Summary: Patient developed an abdominal mass during the course of treatment. ,
+100373859,10037385,Urinary incontinence,,"Summary: The patient experienced urinary incontinence, the involuntary leakage of urine. ",
+100373859,10037385,Axillary mass,,Summary: Patient developed an axillary mass.,
+100373859,10037385,Asthenia,,Summary: Asthenia reported as an adverse event.  ,Classification: Mild.
+100373859,10037385,Foot deformity,,Summary: The adverse event reported is foot deformity. ,
+100373859,10037385,Hot flush,,Summary: Patient experienced a hot flush.,
+100373859,10037385,Burning sensation,,Summary: Patient reported a burning sensation following medication administration. ,
+100373859,10037385,Paraesthesia,,"Summary: The adverse event reported is paraesthesia, a sensation of tingling, numbness, or pins and needles.",
+100373859,10037385,Product substitution issue,,Summary: The adverse event involves a product substitution issue.,
+100373859,10037385,Withdrawal syndrome,,Summary: The patient experienced withdrawal syndrome.,
+100373859,10037385,Muscular weakness,,Summary: The patient experienced muscular weakness.,
+100373859,10037385,Joint stiffness,,Summary: The patient experienced joint stiffness.,
+100373859,10037385,Wrist fracture,,Summary: The patient experienced a wrist fracture.  ,Classification: Moderate
+100373859,10037385,Cyanosis,,"Summary: The patient developed cyanosis, a bluish discoloration of the skin and mucous membranes due to inadequate oxygenation of the blood.",
+100373859,10037385,Bladder irritation,,Summary: Bladder irritation was reported as an adverse event.,
+100373859,10037385,Vulvovaginal dryness,,Summary: Patient experienced vulvovaginal dryness.,
+100373859,10037385,Diarrhoea,,Summary: The patient experienced diarrhoea. ,
+100373859,10037385,Dysstasia,,Summary: Dysstasia is a condition characterized by difficulty in standing or walking. ,
+100373859,10037385,Hypoaesthesia oral,,Summary: Patient experienced decreased sensation in the oral cavity. ,
+100373859,10037385,Night sweats,,Summary: The patient experienced night sweats. ,
+100373859,10037385,Anal incontinence,,"Summary: Anal incontinence refers to the inability to control bowel movements, leading to involuntary leakage of feces.",
+100373859,10037385,Dry skin,,Summary: Patient experienced dry skin as an adverse event. ,
+100373859,10037385,Bedridden,,Summary: Patient became bedridden.  ,Classification: Severe
+1016611044,10166110,Headache,,Summary: The patient experienced a headache.  ,Classification: Mild
+1016611044,10166110,Lower respiratory tract infection,,Summary: The patient experienced a lower respiratory tract infection.  ,Classification: Mild.
+1016611044,10166110,Illness,,Summary: The patient experienced an illness following treatment with the investigational drug.  ,Classification: Moderate
+1016611044,10166110,Vocal cord dysfunction,,Summary: Vocal cord dysfunction is a condition characterized by abnormal vocal cord movement leading to breathing difficulties.,
+1016611044,10166110,Lymphadenitis,,"Summary: Lymphadenitis, inflammation of the lymph nodes, was reported as an adverse event. ",
+1016611044,10166110,Weight increased,,Summary: Patient experienced weight increase.,Classification: Mild
+1016611044,10166110,Nausea,,Summary: Patient experienced nausea following administration of the medication.,
+1016611044,10166110,Somnolence,,Summary: The patient experienced excessive drowsiness or sleepiness.,
+1016611044,10166110,Bronchitis,,"Summary: The patient developed bronchitis, an inflammation of the bronchial tubes causing coughing and difficulty breathing.",
+1016611044,10166110,Dizziness,,Summary: The patient experienced dizziness as an adverse event. ,
+1016611044,10166110,Endometriosis,,"Summary: Endometriosis is a chronic condition where tissue similar to the lining of the uterus grows outside the uterus, causing pain and potential complications. ",
+1016611044,10166110,Hypersensitivity,,Summary: The patient experienced a hypersensitivity reaction.,
+1016611044,10166110,Abdominal pain upper,,Summary: Patient experienced upper abdominal pain.,
+1016611044,10166110,Respiratory syncytial virus infection,,Summary: The patient developed a respiratory syncytial virus infection.,
+1016611044,10166110,Blood immunoglobulin E increased,,Summary: The adverse event reported is an increase in blood immunoglobulin E levels.,
+1016611044,10166110,Concomitant disease aggravated,,Summary: Aggravation of concomitant disease reported.  ,Classification: Moderate
+1016611044,10166110,Presyncope,,Summary: The patient experienced a feeling of lightheadedness and near-fainting. ,
+1016611044,10166110,Palpitations,,Summary: The patient experienced palpitations.,
+1016611044,10166110,Asthma,,Summary: Asthma exacerbation leading to difficulty breathing and wheezing.  ,Classification: Moderate.
+1016611044,10166110,Dyspnoea,,Summary: The patient experienced difficulty breathing (dyspnoea).,
+1016611044,10166110,Nasopharyngitis,,"Summary: The patient experienced inflammation of the nose and throat, known as nasopharyngitis.",
+1016611044,10166110,Blood glucose decreased,,Summary: The adverse event reported was a decrease in blood glucose levels. ,
+1016611044,10166110,Malaise,,Summary: The patient experienced a general feeling of discomfort or unease.  ,Classification: Mild
+1016611044,10166110,Abdominal pain,,Summary: Patient experienced abdominal pain.  ,Classification: Mild
+1016611044,10166110,Anaphylactic reaction,,Summary: The patient experienced a severe anaphylactic reaction. ,
+1016611044,10166110,Urticaria,,"Summary: The patient experienced urticaria, characterized by itchy hives on the skin. ",
+1016611044,10166110,Cough,,Summary: The patient experienced a cough as an adverse event. ,
+1016611044,10166110,Anaphylactic shock,,Summary: Anaphylactic shock is a severe and potentially life-threatening allergic reaction characterized by rapid onset and systemic symptoms. ,
