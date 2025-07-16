@@ -32,7 +32,25 @@ Pharmacovigilance teams spend enormous effort reviewing adverse event (AE) repor
 
 ## Repo Structure
 
-<pre> ## Repo Structure ``` faers-llm-clinical-annotation/ ├── README.md ├── requirements.txt ├── notebook/ │ └── faers_llm_annotation.ipynb ├── sql/ │ ├── 01_load_faers_demo.sql │ ├── 02_load_faers_reac.sql │ └── 03_featureset_creation.sql ├── data/ │ ├── DEMO24Q4.txt │ ├── REAC24Q4.txt │ ├── faers_parsed.csv │ └── faers_annotated.csv ├── dashboards/ │ ├── faers_powerbi_template.pbit │ └── faers_powerbi_report.pdf └── LICENSE ``` </pre>
+faers-llm-clinical-annotation/
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── data/
+│   ├── DEMO24Q4.txt
+│   ├── REAC24Q4.txt
+│   ├── faers_sample.csv
+│   └── faers_sample_ai_output.csv
+├── sql/
+│   ├── load_faers.sql
+│   ├── feature_engineering.sql
+│   └── analysis.sql
+├── notebook/
+│   └── faers_llm_annotation.ipynb
+├── dashboards/
+│   ├── faers_powerbi_report.pdf
+│   └── faers_powerbi_template.pbit
+
 
 > **Note:** Only include public, de-identified data—FAERS is open/public data.
 
