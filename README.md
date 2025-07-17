@@ -32,6 +32,7 @@ Pharmacovigilance teams spend enormous effort reviewing adverse event (AE) repor
 
 ## Repo Structure
 
+```text
 faers-llm-clinical-annotation/
 ├── README.md
 ├── requirements.txt
@@ -50,7 +51,7 @@ faers-llm-clinical-annotation/
 ├── dashboards/
 │   ├── faers_powerbi_template.pbit
 │   └── faers_powerbi_report.pdf
-
+```
 
 
 > **Note:** Only include public, de-identified data—FAERS is open/public data.
