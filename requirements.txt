@@ -1,0 +1,5 @@
+pandas
+openai
+tqdm
+jupyter
+snowflake-connector-python
